@@ -1,8 +1,0 @@
-smart_contract/.gitignore
-smart_contract/hardhat.config.js
-smart_contract/package-lock.json
-smart_contract/package.json
-smart_contract/README.md
-smart_contract/contracts/Transactions.sol
-smart_contract/scripts/deploy.js
-smart_contract/test/sample-test.js
